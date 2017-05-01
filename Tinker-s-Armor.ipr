@@ -9,12 +9,31 @@
       <entry name="!?*.java" />
       <entry name="!?*.groovy" />
     </wildcardResourcePatterns>
+    <bytecodeTargetLevel>
+      <module name="Tinker-s-Armor_api" target="1.6" />
+      <module name="Tinker-s-Armor_main" target="1.6" />
+      <module name="Tinker-s-Armor_test" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
   <component name="CopyrightManager" default="" />
   <component name="DependencyValidationManager">
     <option name="SKIP_IMPORT_STATEMENTS" value="false" />
   </component>
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
   <component name="GradleUISettings">
     <setting name="root" />
   </component>
@@ -45,9 +64,16 @@
     <option name="LOCALE" />
     <option name="OPEN_IN_BROWSER" value="true" />
   </component>
+  <component name="KotlinCommonCompilerArguments">
+    <option name="languageVersion" value="1.1" />
+    <option name="apiVersion" value="1.1" />
+  </component>
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Tinker-s-Armor.iml" filepath="$PROJECT_DIR$/Tinker-s-Armor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tinker-s-Armor_api.iml" filepath="$PROJECT_DIR$/.idea/modules/Tinker-s-Armor_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tinker-s-Armor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tinker-s-Armor_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tinker-s-Armor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tinker-s-Armor_test.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">

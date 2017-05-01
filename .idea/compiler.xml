@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Tinker-s-Armor_api" target="1.6" />
+      <module name="Tinker-s-Armor_main" target="1.6" />
+      <module name="Tinker-s-Armor_test" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
