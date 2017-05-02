@@ -1,4 +1,4 @@
-package com.Qunatummachinist.TinkersArmor;
+package com.Quantummachinist.TinkersArmor;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.event.FMLInitializationEvent;

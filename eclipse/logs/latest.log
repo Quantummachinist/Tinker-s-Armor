@@ -1,15 +1,11 @@
-[19:03:45] [main/INFO]: Setting user: Player756
-[19:03:47] [Client thread/INFO]: LWJGL Version: 2.9.1
-[19:03:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tinker's Armor
-[19:04:00] [Sound Library Loader/INFO]: Sound engine started
-[19:04:01] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[19:04:01] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[19:04:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tinker's Armor
-[19:04:02] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[19:04:02] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[19:04:03] [Sound Library Loader/INFO]: Sound engine started
-[19:05:07] [Client thread/INFO]: Connecting to cosmicpvp.proxy.n.compilex.com., 50006
-[19:05:14] [Client thread/INFO]: Connecting to cosmicpvp.proxy.n.compilex.com., 50006
-[19:05:17] [Client thread/INFO]: Connecting to cosmicpvp.proxy.n.compilex.com., 50006
-[19:05:22] [Client thread/INFO]: Connecting to cosmicpvp.proxy.n.compilex.com., 50006
-[19:07:05] [Client thread/INFO]: Stopping!
+[21:11:00] [main/INFO]: Setting user: Player268
+[21:11:02] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:11:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tinker's Armor
+[21:11:15] [Sound Library Loader/INFO]: Sound engine started
+[21:11:28] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[21:11:28] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[21:11:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tinker's Armor
+[21:11:28] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:11:28] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:11:29] [Sound Library Loader/INFO]: Sound engine started
+[21:11:39] [Client thread/INFO]: Stopping!
